@@ -1,0 +1,443 @@
+{
+ "version": 1,
+ "created": "2026-11-08T09:25:28Z",
+ "sources": [
+  {
+   "name": "igareck/BLACK_VLESS_RUS",
+   "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS.txt",
+   "priority": 0
+  },
+  {
+   "name": "igareck/BLACK_VLESS_RUS_mobile",
+   "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS_mobile.txt",
+   "priority": 0
+  },
+  {
+   "name": "igareck/Vless-Reality-White-Lists-Rus-Mobile",
+   "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+   "priority": 0
+  },
+  {
+   "name": "zieng2/vless_lite",
+   "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/zieng2/wl@main/vless_lite.txt",
+   "priority": 0
+  },
+  {
+   "name": "zieng2/vless_universal",
+   "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/zieng2/wl@main/vless_universal.txt",
+   "priority": 0
+  },
+  {
+   "name": "10Dream_sub-mod_0xRadikal-Free-v2ray-verified.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/0xRadikal-Free-v2ray-verified.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_10Dream-VpnClashFaCollector-mixed.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/10Dream-VpnClashFaCollector-mixed.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_10ium-VpnClashFaCollector-mixed.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/10ium-VpnClashFaCollector-mixed.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_cloudflare.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/split/datacenters/cloudflare.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_flaafix-AetrisVPN-black-list-configs.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/flaafix-AetrisVPN-black-list-configs.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_reality.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/split/reality.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_whoahaow-rjsxrd-bypass-all.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/whoahaow-rjsxrd-bypass-all.txt",
+   "priority": 1
+  },
+  {
+   "name": "10ium_base64-encoder_whoahaow_rjsxrd_bypass_all.txt",
+   "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/whoahaow_rjsxrd_bypass_all.txt",
+   "priority": 1
+  },
+  {
+   "name": "AzadNetCH_Clash_AzadNet.txt",
+   "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt",
+   "priority": 1
+  },
+  {
+   "name": "NiREvil_vless_AllConfigsSub.txt",
+   "url": "https://raw.githubusercontent.com/EEvanescence/4Diana/main/AllConfigsSub.txt",
+   "priority": 1
+  },
+  {
+   "name": "NiREvil_vless_vless.txt",
+   "url": "https://raw.githubusercontent.com/EEvanescence/4Diana/main/By-protocol/vless.txt",
+   "priority": 1
+  },
+  {
+   "name": "kort0881/vless",
+   "url": "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/output/vless.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/kort0881/vpn-vless-configs-russia@main/output/vless.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_13.txt",
+   "url": "https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/13.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_20.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/PulseProxy/main/githubmirror/20.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_21.txt",
+   "url": "https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/21.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_22.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/PulseProxy/main/githubmirror/22.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_23.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/PulseProxy/main/githubmirror/23.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_BLACK_LTE.txt",
+   "url": "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/BASE64/BLACK_LTE.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_Delta_Kronecker_vless",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/normal/Delta_Kronecker_vless",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_Germany.txt",
+   "url": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/Countries/Germany.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_Top500.txt",
+   "url": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_Z.txt",
+   "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/Z.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_aistudio.txt",
+   "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/site_access/aistudio.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_all-base64.txt",
+   "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/all-base64.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_all_configs.txt",
+   "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/all_configs.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_bypass-2.txt",
+   "url": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-2.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_bypass-all.txt",
+   "url": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_configs.txt",
+   "url": "https://raw.githubusercontent.com/MrTelepathic/v2ray-sub/main/configs.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_configs_base64.txt",
+   "url": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/fast/configs_base64.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_fastest.txt",
+   "url": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_ping_tested.txt",
+   "url": "https://raw.githubusercontent.com/luxxuria/harvester/main/ping_tested.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_reality.txt",
+   "url": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/transports/reality.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_ss.txt",
+   "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/configs/ss.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_sub",
+   "url": "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_sub.txt",
+   "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/sub.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_tls.txt",
+   "url": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/transports/tls.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-0001.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/stable/v2ray-base64-0001.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-0002.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/stable/v2ray-base64-0002.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-0003.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/stable/v2ray-base64-0003.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-0004.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/all-verified/v2ray-base64-0004.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-0005.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/stable/v2ray-base64-0005.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64-US.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/by-country/v2ray-base64-US.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray-base64.txt",
+   "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_v2ray.txt",
+   "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/v2ray.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_verified.txt",
+   "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_vless",
+   "url": "https://raw.githubusercontent.com/sinavm/SVM/main/subscriptions/xray/normal/vless",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_vless_base64.txt",
+   "url": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/protocols/vless_base64.txt",
+   "priority": 1
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_vmess.txt",
+   "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Protocols/vmess.txt",
+   "priority": 1
+  },
+  {
+   "name": "sakha1370_OpenRay_NL.txt",
+   "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/country/NL.txt",
+   "priority": 1
+  },
+  {
+   "name": "sakha1370_OpenRay_XX.txt",
+   "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/country/XX.txt",
+   "priority": 1
+  },
+  {
+   "name": "sakha1370_OpenRay_aistudio_iran_verified.txt",
+   "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/site_access/aistudio_iran_verified.txt",
+   "priority": 1
+  },
+  {
+   "name": "10Dream_sub-mod_SoliSpirit-v2ray-configs-all_configs.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/SoliSpirit-v2ray-configs-all_configs.txt",
+   "priority": 2
+  },
+  {
+   "name": "10Dream_sub-mod_Surfboardv2ray-Proxy-sorter-converted.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/Surfboardv2ray-Proxy-sorter-converted.txt",
+   "priority": 2
+  },
+  {
+   "name": "10Dream_sub-mod_mix.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/mix.txt",
+   "priority": 2
+  },
+  {
+   "name": "10Dream_sub-mod_tcp.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/split/tcp.txt",
+   "priority": 2
+  },
+  {
+   "name": "10Dream_sub-mod_tls.txt",
+   "url": "https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/split/tls.txt",
+   "priority": 2
+  },
+  {
+   "name": "10ium_V2ray-Config_All_Configs_Sub.txt",
+   "url": "https://raw.githubusercontent.com/10ium/V2ray-Config/main/All_Configs_Sub.txt",
+   "priority": 2
+  },
+  {
+   "name": "10ium_base64-encoder_Barabama_nodev2ray.txt",
+   "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/Barabama_nodev2ray.txt",
+   "priority": 2
+  },
+  {
+   "name": "Barabama_FreeNodes_clashnode.txt",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashnode.txt",
+   "priority": 2
+  },
+  {
+   "name": "Barabama_FreeNodes_merged.txt",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/merged.txt",
+   "priority": 2
+  },
+  {
+   "name": "Barabama_FreeNodes_nodev2ray.txt",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt",
+   "priority": 2
+  },
+  {
+   "name": "Delta-Kronecker_V2ray-Config_all_configs.txt",
+   "url": "https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/main/config/all_configs.txt",
+   "priority": 2
+  },
+  {
+   "name": "NiREvil_vless_merged.txt",
+   "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt",
+   "priority": 2
+  },
+  {
+   "name": "aviamastersgh_vpn-free-russia_all_configs.txt",
+   "url": "https://cdn.jsdelivr.net/gh/aviamastersgh/vpn-free-russia@main/all_configs.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_1.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/PulseProxy/main/githubmirror/1.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_10.txt",
+   "url": "https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/10.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_3.txt",
+   "url": "https://raw.githubusercontent.com/nikita29a/FreeProxyList/main/mirror/3.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_ShadowSocks.txt",
+   "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/main/output_configs/ShadowSocks.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_all_valid_proxies.txt",
+   "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/all_valid_proxies.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_configtg.txt",
+   "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_curated.txt",
+   "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/curated.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_m1n1-5ub-10.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-10.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_m1n1-5ub-12.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-12.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_m1n1-5ub-15.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-15.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_m1n1-5ub-16.txt",
+   "url": "https://raw.githubusercontent.com/pie-with-jam/5ubscrpt10n-Reborn/main/mini/m1n1-5ub-16.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_podpiska.txt",
+   "url": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt",
+   "priority": 2
+  },
+  {
+   "name": "mehdirzfx_v2ray-sub_port_443.txt",
+   "url": "https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_443.txt",
+   "priority": 2
+  },
+  {
+   "name": "SoliSpirit/mtproto",
+   "url": "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
+   "mirror": "https://cdn.jsdelivr.net/gh/SoliSpirit/mtproto@master/all_proxies.txt",
+   "priority": 5
+  },
+  {
+   "name": "t.me/ProxyMTProto",
+   "url": "https://t.me/s/ProxyMTProto",
+   "priority": 5
+  },
+  {
+   "name": "t.me/TProxyRU",
+   "url": "https://t.me/s/TProxyRU",
+   "priority": 5
+  },
+  {
+   "name": "t.me/mtp4tg",
+   "url": "https://t.me/s/mtp4tg",
+   "priority": 5
+  }
+ ]
+}
