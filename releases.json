@@ -1,24 +1,24 @@
 {
- "version": 1000,
- "created": "2026-11-17T15:09:12Z",
+ "version": 1001,
+ "created": "2026-11-17T19:50:07Z",
  "release": {
-  "app": "0.4.0",
-  "notes": "Первый публичный выпуск. Метка «для звонков» в списке узлов (замер UDP), «Отправить через выход» из журнала соединений и шаблон «Звонки Discord», единая таблетка «выход работает» на главной, импорт диплинков Throne и ссылок wg://, новый установщик Windows с окном в стиле Brod.",
+  "app": "0.4.1",
+  "notes": "Установка Linux из готового архива (install.sh), помощник обновлений ставится сам. Windows: приложение запускается само после обновления, копия установщика при удалении стирается. Окно обновления без кнопки «Проверить сейчас» во время скачивания и с понятным текстом ошибки. На главной все таблетки активного узла и единая таблетка выхода, проверки пинга, скорости, звонков и страны в меню узла.",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-android-arm64.apk",
-    "sha256": "5c70da7f4887fdee99ef9e69709379c70903cacc0e7f5c49f47f6fb504fe2d65",
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-android-arm64.apk",
+    "sha256": "a87e0b2e7ff2e43106d9b8f01a86f8638f0dfb411073d06f0f9d3be8366804b7",
     "size": 94035027
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-linux-amd64.tar.gz",
-    "sha256": "51c7556054b4bac6f02336caed45a3d99b4e2d9d957e64d9926d1d452c9cbfa3",
-    "size": 56019824
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-linux-amd64.tar.gz",
+    "sha256": "930e2ac2e8f2932c205ba3968e71ecc89758086095d3a95521ee4109f5ec8555",
+    "size": 58880099
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-windows-amd64.zip",
-    "sha256": "b74d22e3cbc5ea2d73f7a6a6625ac966675640c0c74d11151280c7264ac0484b",
-    "size": 58745981
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-windows-amd64.zip",
+    "sha256": "6f2f5f01a95a882f067cf99dcac6eb84391a4a9136a7a55d6152488dfaea09c3",
+    "size": 58749468
    }
   }
  }
