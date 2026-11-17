@@ -1,0 +1,25 @@
+{
+ "version": 1,
+ "created": "2026-11-17T14:54:32Z",
+ "release": {
+  "app": "0.4.0",
+  "notes": "Первый публичный выпуск. Метка «для звонков» в списке узлов (замер UDP), «Отправить через выход» из журнала соединений и шаблон «Звонки Discord», единая таблетка «выход работает» на главной, импорт диплинков Throne и ссылок wg://, новый установщик Windows с окном в стиле Brod.",
+  "assets": {
+   "android-arm64": {
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-android-arm64.apk",
+    "sha256": "5c70da7f4887fdee99ef9e69709379c70903cacc0e7f5c49f47f6fb504fe2d65",
+    "size": 94035027
+   },
+   "linux-amd64": {
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-linux-amd64.tar.gz",
+    "sha256": "51c7556054b4bac6f02336caed45a3d99b4e2d9d957e64d9926d1d452c9cbfa3",
+    "size": 56019824
+   },
+   "windows-amd64": {
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.0/brod-0.4.0-windows-amd64.zip",
+    "sha256": "b74d22e3cbc5ea2d73f7a6a6625ac966675640c0c74d11151280c7264ac0484b",
+    "size": 58745981
+   }
+  }
+ }
+}
