@@ -1,24 +1,24 @@
 {
- "version": 1001,
- "created": "2026-11-17T19:50:07Z",
+ "version": 1002,
+ "created": "2026-11-18T00:27:53Z",
  "release": {
-  "app": "0.4.1",
-  "notes": "Установка Linux из готового архива (install.sh), помощник обновлений ставится сам. Windows: приложение запускается само после обновления, копия установщика при удалении стирается. Окно обновления без кнопки «Проверить сейчас» во время скачивания и с понятным текстом ошибки. На главной все таблетки активного узла и единая таблетка выхода, проверки пинга, скорости, звонков и страны в меню узла.",
+  "app": "0.4.2",
+  "notes": "Мастер первого запуска: что такое Brod, состояние WARP с подбором, выбор узла, обзор вкладок. WARP: неудачный автоподбор откатывается на прежний профиль, а запомненный для сети профиль, на котором WARP не отвечает больше 10 минут, забывается.",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-android-arm64.apk",
-    "sha256": "a87e0b2e7ff2e43106d9b8f01a86f8638f0dfb411073d06f0f9d3be8366804b7",
-    "size": 94035027
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-android-arm64.apk",
+    "sha256": "a7411778058023a2924a8ac2b1decedc45c652b6643dfeebd54f17154b10284a",
+    "size": 94116947
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-linux-amd64.tar.gz",
-    "sha256": "930e2ac2e8f2932c205ba3968e71ecc89758086095d3a95521ee4109f5ec8555",
-    "size": 58880099
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-linux-amd64.tar.gz",
+    "sha256": "654c14eae88aa87ef1ca9591a133230c4f8803d62fc070cc6e7022f05f4d2a14",
+    "size": 58892564
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.1/brod-0.4.1-windows-amd64.zip",
-    "sha256": "6f2f5f01a95a882f067cf99dcac6eb84391a4a9136a7a55d6152488dfaea09c3",
-    "size": 58749468
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-windows-amd64.zip",
+    "sha256": "fadfa47a34de7eb89e63ef5042498b3f5d6078596e353b831a94116fdda323ad",
+    "size": 58760372
    }
   }
  }
