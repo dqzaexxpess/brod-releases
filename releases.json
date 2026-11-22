@@ -1,24 +1,24 @@
 {
- "version": 1002,
- "created": "2026-11-18T00:27:53Z",
+ "version": 1003,
+ "created": "2026-11-22T23:40:00Z",
  "release": {
-  "app": "0.4.2",
-  "notes": "Мастер первого запуска: что такое Brod, состояние WARP с подбором, выбор узла, обзор вкладок. WARP: неудачный автоподбор откатывается на прежний профиль, а запомненный для сети профиль, на котором WARP не отвечает больше 10 минут, забывается.",
+  "app": "0.4.6",
+  "notes": "Диагностический отчёт (Настройки → Диагностика), WARP на Windows и Linux создаётся сам, запасной DoH для DNS движка на Android, правило «Пускать напрямую» в соединениях, сообщение о сети без UDP на главной, исправлен киллсвитч на Windows 11 25H2, журнал установщика Windows.",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-android-arm64.apk",
-    "sha256": "a7411778058023a2924a8ac2b1decedc45c652b6643dfeebd54f17154b10284a",
-    "size": 94116947
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-android-arm64.apk",
+    "sha256": "f3752faec3b277bc525a52a8c2df4ba9caf1858ce920e809aa643ab0b645a12d",
+    "size": 94264403
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-linux-amd64.tar.gz",
-    "sha256": "654c14eae88aa87ef1ca9591a133230c4f8803d62fc070cc6e7022f05f4d2a14",
-    "size": 58892564
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-linux-amd64.tar.gz",
+    "sha256": "e2aa725c2e8e9166127778333e8e5b4b3101c53a4a52da1f037a062c25374cb8",
+    "size": 59044517
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.2/brod-0.4.2-windows-amd64.zip",
-    "sha256": "fadfa47a34de7eb89e63ef5042498b3f5d6078596e353b831a94116fdda323ad",
-    "size": 58760372
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-windows-amd64.zip",
+    "sha256": "e80c9e58db7307c53111784c91d594ccfbbbc5f868943b907363fbc4388d7de8",
+    "size": 58919149
    }
   }
  }
