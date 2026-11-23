@@ -1,24 +1,24 @@
 {
- "version": 1004,
- "created": "2026-11-23T15:12:41Z",
+ "version": 1005,
+ "created": "2026-11-23T16:31:52Z",
  "release": {
-  "app": "0.4.9",
-  "notes": "Поиск по настройкам; QR-коды сервера и профиля правил, ссылка brod://route/… открывается в Brod; проверка звеньев цепочки; выбор «лучшего узла» с учётом стабильности и проверкой реальным запросом; резервный ключ подписи обновлений; на Android сообщение при запуске, если система остановила Brod при включённом VPN; срок подписки в источниках. Из 0.4.8: раздача прокси в локальную сеть, WireGuard первым звеном цепочки, ссылки на серверы из других приложений (Android).",
+  "app": "0.4.10",
+  "notes": "«Лучший узел»: главное скорость и пинг, список узлов отсортирован той же оценкой; уведомления об истекающей подписке и о звене цепочки, которое не отвечает; поиск по настройкам открывает и подсвечивает нужное, исправлен возврат клавиатуры; 14 акцентов, свой цвет и размер текста; английский README. English: best node by speed and ping, subscription and chain-hop notifications, better settings search, more accent colors and text size.",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-android-arm64.apk",
-    "sha256": "080904a3f0ed5f8d5abd3761c5fc60b812c7ea0104e997854079fbee0a8fd9f0",
-    "size": 94448723
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-android-arm64.apk",
+    "sha256": "36c3d6f149e1c7f536450437e0abf057889a088ad13eb7db6ebf7e7362d1cbd4",
+    "size": 94465107
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-linux-amd64.tar.gz",
-    "sha256": "40a5683ced06463a3d91a2194125d3ead0ba6b1beb046bc97457c705f64cc572",
-    "size": 59150176
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-linux-amd64.tar.gz",
+    "sha256": "e866e415993c26695879f719592dd538e105c9a88305f75d64311de78177da77",
+    "size": 59173792
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-windows-amd64.zip",
-    "sha256": "ea0d54fa5887959ad7d1fd38d4718d3c3dda28b983f851f940dd0d79115a15e6",
-    "size": 59026688
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-windows-amd64.zip",
+    "sha256": "5fc843b8c48be90e7197928ffc17350de1ddb67e59551cf526eb41032441fdfd",
+    "size": 59052656
    }
   }
  }
