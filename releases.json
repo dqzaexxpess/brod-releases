@@ -1,24 +1,24 @@
 {
- "version": 1005,
- "created": "2026-11-23T16:31:52Z",
+ "version": 1006,
+ "created": "2026-11-23T17:08:22Z",
  "release": {
-  "app": "0.4.10",
-  "notes": "«Лучший узел»: главное скорость и пинг, список узлов отсортирован той же оценкой; уведомления об истекающей подписке и о звене цепочки, которое не отвечает; поиск по настройкам открывает и подсвечивает нужное, исправлен возврат клавиатуры; 14 акцентов, свой цвет и размер текста; английский README. English: best node by speed and ping, subscription and chain-hop notifications, better settings search, more accent colors and text size.",
+  "app": "0.4.11",
+  "notes": "Настройки открываются и переключаются быстрее: новое значение переключателя видно сразу, настройки грузятся параллельно с источниками. Из 0.4.10: «лучший узел» по скорости и пингу, уведомления о подписке и звене цепочки, поиск по настройкам с подсветкой, 14 акцентов, свой цвет и размер текста. English: faster settings (instant toggles), plus everything from 0.4.10.",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-android-arm64.apk",
-    "sha256": "36c3d6f149e1c7f536450437e0abf057889a088ad13eb7db6ebf7e7362d1cbd4",
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.11/brod-0.4.11-android-arm64.apk",
+    "sha256": "6b22221b3ebd999a4e4b203f4010276b37088c383e45fd0ecf794bc86f88d2f7",
     "size": 94465107
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-linux-amd64.tar.gz",
-    "sha256": "e866e415993c26695879f719592dd538e105c9a88305f75d64311de78177da77",
-    "size": 59173792
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.11/brod-0.4.11-linux-amd64.tar.gz",
+    "sha256": "faeb3392d4fa5a07c7c66d959d17da77b93ccbc3301495040ac60b180997516b",
+    "size": 59174741
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.10/brod-0.4.10-windows-amd64.zip",
-    "sha256": "5fc843b8c48be90e7197928ffc17350de1ddb67e59551cf526eb41032441fdfd",
-    "size": 59052656
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.11/brod-0.4.11-windows-amd64.zip",
+    "sha256": "5b8528924ffc29faad2169074e4a9595862301919f6c7c7eb3d593d99ea1a8a5",
+    "size": 59053515
    }
   }
  }
