@@ -1,24 +1,24 @@
 {
- "version": 1003,
- "created": "2026-11-22T23:40:00Z",
+ "version": 1004,
+ "created": "2026-11-23T15:12:41Z",
  "release": {
-  "app": "0.4.6",
-  "notes": "Диагностический отчёт (Настройки → Диагностика), WARP на Windows и Linux создаётся сам, запасной DoH для DNS движка на Android, правило «Пускать напрямую» в соединениях, сообщение о сети без UDP на главной, исправлен киллсвитч на Windows 11 25H2, журнал установщика Windows.",
+  "app": "0.4.9",
+  "notes": "Поиск по настройкам; QR-коды сервера и профиля правил, ссылка brod://route/… открывается в Brod; проверка звеньев цепочки; выбор «лучшего узла» с учётом стабильности и проверкой реальным запросом; резервный ключ подписи обновлений; на Android сообщение при запуске, если система остановила Brod при включённом VPN; срок подписки в источниках. Из 0.4.8: раздача прокси в локальную сеть, WireGuard первым звеном цепочки, ссылки на серверы из других приложений (Android).",
   "assets": {
    "android-arm64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-android-arm64.apk",
-    "sha256": "f3752faec3b277bc525a52a8c2df4ba9caf1858ce920e809aa643ab0b645a12d",
-    "size": 94264403
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-android-arm64.apk",
+    "sha256": "080904a3f0ed5f8d5abd3761c5fc60b812c7ea0104e997854079fbee0a8fd9f0",
+    "size": 94448723
    },
    "linux-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-linux-amd64.tar.gz",
-    "sha256": "e2aa725c2e8e9166127778333e8e5b4b3101c53a4a52da1f037a062c25374cb8",
-    "size": 59044517
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-linux-amd64.tar.gz",
+    "sha256": "40a5683ced06463a3d91a2194125d3ead0ba6b1beb046bc97457c705f64cc572",
+    "size": 59150176
    },
    "windows-amd64": {
-    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.6/brod-0.4.6-windows-amd64.zip",
-    "sha256": "e80c9e58db7307c53111784c91d594ccfbbbc5f868943b907363fbc4388d7de8",
-    "size": 58919149
+    "url": "https://github.com/dqzaexxpess/brod/releases/download/v0.4.9/brod-0.4.9-windows-amd64.zip",
+    "sha256": "ea0d54fa5887959ad7d1fd38d4718d3c3dda28b983f851f940dd0d79115a15e6",
+    "size": 59026688
    }
   }
  }
